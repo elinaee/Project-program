@@ -33,8 +33,12 @@ project folder. Select the main module inside the Super-Mario-Python-Project fol
 ## Authors
 ---
 Felix Samuel Guzman
+
 Elisabete Stahl
+
 Omachona God'spower Richard
+
 Farai Mugijima
+
 Gabriel Tailor
 
