@@ -5,10 +5,15 @@ A game inspired on the classic and original Mario games.
 Move Mario by using the following keyboard commands:
 
 Left: Move left  // Left Arrow
+
 Right: Move right  // Right Arror
+
 Space: Jump   // Up Arror
+
 Shift: Boost   
+
 Left/Right Mouseclick: Secret
+
 
 
 ## Getting Started
@@ -26,9 +31,12 @@ project folder. Select the main module inside the Super-Mario-Python-Project fol
 
 
 ## Required Technologies	
- pygame	
+ pygame
+ 
  scipy
+ 
  py2exe	
+ 
 
 ## Authors
 ---
